@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PDICNXM/miui_HM6Pro_V12.0.1.0.PDICNXM_81d
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200907160022/M6763B_11_OTA_0480_all_PEdUK5DEfM9I.ozip
+  ROM_NAME: ColorOS
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
